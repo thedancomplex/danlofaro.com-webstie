@@ -36,21 +36,20 @@ Electrical and Computer Engineering Dept. 7-313<br />
     <td><a href="publicationsPage.php" class="MainNav">Publications  </a></td>
   </tr>
   <tr>
-    <td><a href="resumePage.php" class="MainNav">Vitae </a></td>
+    <td><a href="files/LofaroDanielCV.pdf" class="MainNav">Vitae </a></td>
   </tr>
 
-
-  <!--
   <tr>
-    <td><a href="students.html" class="MainNav">Students </a></td>
+    <td><a href="http://www.youtube.com/thedancomplex" class="MainNav">On YouTube </a></td>
   </tr>
 
-  -->
 
   <tr>  
-    <td><a href="softwarePage.php" class="MainNav">Software </a></td>
+    <td><a href="https://github.com/thedancomplex" class="MainNav">Software </a></td>
   </tr>
   
+  
+  <!--
   <tr>
     <td><a href="news.html" class="MainNav">News </a></td>
 
@@ -59,7 +58,7 @@ Electrical and Computer Engineering Dept. 7-313<br />
   <tr>
     <td><a href="asmeRelated.html" class="MainNav">ASME </a></td>
   </tr>
-
+-->
   <tr>
     <td><p>&nbsp;</p>
     <p>&nbsp;</p>
