@@ -36,7 +36,10 @@ Electrical and Computer Engineering Dept. 7-313<br />
     <td><a href="publicationsPage.php" class="MainNav">Publications  </a></td>
   </tr>
   <tr>
-    <td><a href="files/LofaroDanielCV.pdf" class="MainNav">Vitae </a></td>
+    <td><a href="/events" class="MainNav">Events</a></td>
+  </tr>
+  <tr>
+    <td><a href="/files/LofaroDanielCV.pdf" class="MainNav">Vitae </a></td>
   </tr>
 
   <tr>

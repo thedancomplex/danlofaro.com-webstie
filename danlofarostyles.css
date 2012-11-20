@@ -1,5 +1,5 @@
 .body {
-	background: url(images/bluegradbg.jpg) repeat-x fixed;
+	background: url(/images/bluegradbg.jpg) repeat-x fixed;
 }
 
 /* Layout */
@@ -14,7 +14,7 @@
 }
 
 .mainarea {
-	background: url(images/background.jpg) repeat-x scroll;
+	background: url(/images/background.jpg) repeat-x scroll;
 	margin-left: 170px;
 	margin-top: 20px;
 	margin-right: 20px;
@@ -32,7 +32,7 @@
 }
 
 .columnbg {
-	background: url(images/columnbg.gif) repeat-y scroll;
+	background: url(/images/columnbg.gif) repeat-y scroll;
 }
 
 /* General */
@@ -58,7 +58,7 @@
 /* Left Nav */
 
 .leftarea {
-	background: url(images/leftcolumnbg.jpg) repeat-x scroll;
+	background: url(/images/leftcolumnbg.jpg) repeat-x scroll;
 	float: left;
 	margin-right: 20px;
 	width: 150px;
@@ -75,7 +75,7 @@
 
 .MainNav:link {	color: #fff;
 	text-decoration: none;}.MainNav:visited {	color: #fff;
-	text-decoration: none;}.MainNav:hover {	color: #fff;	background: url(images/high.jpg) repeat-x scroll;
+	text-decoration: none;}.MainNav:hover {	color: #fff;	background: url(/images/high.jpg) repeat-x scroll;
 	text-decoration: none;
 	width: 130px;
 	height: 20px;}
@@ -113,4 +113,4 @@
 	padding: 5px;
 	border: 1px solid #ccc;
 }
-
+

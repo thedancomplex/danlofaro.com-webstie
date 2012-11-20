@@ -7,7 +7,7 @@
 
 
 <title>Daniel M. Lofaro</title>
-<link href="danlofarostyles.css" rel="stylesheet" type="text/css" />
+<link href="/danlofarostyles.css" rel="stylesheet" type="text/css" />
 
 
 

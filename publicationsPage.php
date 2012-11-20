@@ -13,6 +13,25 @@
 
 
 
+<table border="0" class="text">
+<tr>
+<td>Title(13): </td>
+<td><b><i>*Comparison of Linear and Non-linear Method Towards the Mitigation of Torsional Resonance in Coupled Systems
+</i></b></td>
+</tr>
+<tr>
+<td>Authors: </td>
+<td>D. Lofaro and T. Chmielewski</td>
+</tr>
+<tr>
+<td></td> 
+<td>American Control Conference (ACC) 2013</td>
+</tr>
+<tr>
+<td></td>
+<td><i>Full Document - Abstract - BibTex</i></td>
+</table>
+</p>
 
 <table border="0" class="text">
 <tr>
@@ -328,7 +347,11 @@
 
 
 
-
+<div class="text">
+<center>
+*Submitted for Review
+</center>
+</div>
 
 </p>
 </div>
