@@ -48,7 +48,7 @@
 </tr>
 <tr>
 <td></td>
-<td><i>Full Document - Abstract - BibTex</i></td>
+<td><i><a href="publications/dLofaro-Humanoids2012-BaseBallGame_FINAL_SUBMIT.pdf">Full Document</a> - Abstract - BibTex</i></td>
 </table>
 </p>
 

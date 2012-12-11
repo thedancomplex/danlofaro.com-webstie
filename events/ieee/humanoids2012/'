@@ -17,10 +17,11 @@ All schedule events are on a <i>"pay your own way"</i> basis unless otherwise st
 </p></p>
 
 <p>
+<!--
 <iframe width="526" height="352" frameborder="0" src="http://files.slidemypics.com/app/js/iframe.html?bg_color=1f1f1f&amp;hash=27bdf9792c989ed64ff87cd4a1029038&amp;r=0.637749977177009"></iframe>
 
 <a href="http://www.flickr.com/photos/90642201@N06/sets/72157632132914665/"><img src="flickrDs.png" height=50 /></a>
-<p>
+
 
 <a href="https://twitter.com/ieeestudentfun" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @ieeeStudentFun</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
@@ -55,6 +56,7 @@ new TWTR.Widget({
 }).render().setUser('ieeeStudentFun').start();
 </script>
 
+-->
 
 <h3>Friday, November 30th, 2012</h3>
 <blockquote>
@@ -105,7 +107,7 @@ Tentative Schedule:
 <b>(Food Event: ~12:00-13:00)</b>Lunch. Follow <a href="https://twitter.com/ieeestudentfun">@ieeestudentfun</a> on Twitter for updates<br></br>
 <b>(Food Event: ~20:00-??:??)</b>Going out for dinner and drinks.  <a href="https://twitter.com/ieeestudentfun">@ieeestudentfun</a> on Twitter for updates on times and places.
 </blockquote>
-</p>
+
 </p>
 
 <?php
