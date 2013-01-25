@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+
+<title>Paul Oh</title>
+<link href="paulohstyles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="body">
+<br />
+<div align="center" class="whiteblock">
+<div class="columnbg">
+<? include("header.php") ?>
+<div class="leftarea"><? include("sidenav.php") ?></div>
+<div class="mainarea">
+<p class="text"><img src="images/pauloh.jpg" alt="Paul Oh" width="212" height="150" class="rightphoto" style="margin-top:20px;" />Paul Oh is an Associate Professor at Drexel's Mechanical Engineering 
+  Department and Director of the Drexel Autonomous Systems Lab (DASL).</p>
+<ul class="text">
+  <li>Boeing
+    Welliver Fellow (2006)</li>
+  <li>College of Engineering Teaching Excellence Award (2006) </li>
+  <li>SAE Ralph Teetor
+    Engineering Education Excellence Award (2006) </li>
+  <li>NSF CAREER Award (2004) </li>
+  <li>Naval Research Lab Faculty Fellow (2003) </li>
+  <li>NASA Jet Propulsion Lab Faculty
+    Fellow (2002) </li>
+  <li>IEEE Chair Technical Committee on Aerial Robotics and UAVs </li>
+  <li>Columbia University,
+    Ph.D. 1999 </li>
+  <li>Seoul National University, M.Sc. 1992 </li>
+  <li>McGill University, B.Eng Honors 1989 <br />
+  </li>
+</ul>
+<p class="text">&quot;A Low-cost Low-maintanence
+  Platform for Hands-on Experiments In Control Systems Education&quot;HTML article</p>
+
+UAV'09 papers and slides - click <a href="uav09-papersAndSlides.zip">HERE</a>
+
+<div style="clear:both;">
+    <? include("footer.php") ?>
+  </div>
+  
+  </div>
+			  
+</div></div>
+
+</body>
+</html>
