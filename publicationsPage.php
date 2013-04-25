@@ -12,10 +12,30 @@
 <h2>Publications</h2>
 
 
+<table border="0" class="text">
+<tr>
+<td>Title(16): </td>
+<td><b><i>*Reliable Software for Humanoid Robots
+</i></b></td>
+</tr>
+<tr>
+<td>Authors: </td>
+<td>N. Dantam, D. Lofaro, A. Hereid, P. Oh, A. Ames, and M. Stilman</td>
+</tr>
+<tr>
+<td></td> 
+<td>IEEE Robotics and Automation Magazine, 2013</td>
+</tr>
+<tr>
+<td></td>
+<td><i>Full Document - Abstract - BibTex</i></td>
+</table>
+</p>
+
 
 <table border="0" class="text">
 <tr>
-<td>Title(13): </td>
+<td>Title(15): </td>
 <td><b><i>*Comparison of Linear and Non-linear Method Towards the Mitigation of Torsional Resonance in Coupled Systems
 </i></b></td>
 </tr>
@@ -32,6 +52,51 @@
 <td><i>Full Document - Abstract - BibTex</i></td>
 </table>
 </p>
+
+
+<table border="0" class="text">
+<tr>
+<td>Title(14): </td>
+<td><b><i>Multi-process architecture for robust control the hubo2+ robot
+</i></b></td>
+</tr>
+<tr>
+<td>Authors: </td>
+<td>M. Grey, N. Dantam, M. Stilman, and D. Lofaro</td>
+</tr>
+<tr>
+<td></td> 
+<td>IEEE International Conference on Technologies for Practical Robot Applications, 2013</td>
+</tr>
+<tr>
+<td></td>
+<td><i>Full Document - Abstract - BibTex</i></td>
+</table>
+</p>
+
+
+
+
+<table border="0" class="text">
+<tr>
+<td>Title(13): </td>
+<td><b><i>Toward a user-guided manipulation framework for high-dof robots with limited communication
+</i></b></td>
+</tr>
+<tr>
+<td>Authors: </td>
+<td>N. Alunni, C. Phillips-Graffin, H. Suay, D. Lofaro, and D. Berenson</td>
+</tr>
+<tr>
+<td></td> 
+<td>IEEE International Conference on Technologies for Practical Robot Applications, 2013</td>
+</tr>
+<tr>
+<td></td>
+<td><i>Full Document - Abstract - BibTex</i></td>
+</table>
+</p>
+
 
 <table border="0" class="text">
 <tr>

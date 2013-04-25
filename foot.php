@@ -4,6 +4,7 @@
 <div class="footerline">&nbsp;</div>
 <span class="footer">
     <a href="/">Home</a> | 
+    <a href="/about.php">About</a> | 
     <a href="http://dasl.mem.drexel.edu/">Research Lab</a> |  
     <a href="/publicationsPage.php">Publications</a> | 
     <a href="/events">Events</a> | 

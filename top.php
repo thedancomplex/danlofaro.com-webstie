@@ -19,9 +19,13 @@ Electrical and Computer Engineering Dept. 7-313<br />
     <td style="height: 100px;">&nbsp;</td>
   </tr>
   <tr>
-    <td><a href="\" class="MainNav">Home</a></td>
+    <td><a href="/" class="MainNav">Home</a></td>
   </tr>
 
+  <tr>
+    <td><a href="/about.php" class="MainNav">About</a></td>
+  </tr>
+ 
   <tr>
     <td><a href="http://dasl.mem.drexel.edu" class="MainNav">Research Lab  </a></td>
   </tr>

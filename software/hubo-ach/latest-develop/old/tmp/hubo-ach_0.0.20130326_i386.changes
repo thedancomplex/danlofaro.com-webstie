@@ -1,0 +1,36 @@
+Format: 1.8
+Date: tue, 25 Mar 2013 17:57:00 -0400
+Source: hubo-ach
+Binary: hubo-ach hubo-ach-dev
+Architecture: source i386
+Version: 0.0.20130326
+Distribution: stable
+Urgency: low
+Maintainer: Danel M. Lofaro <dan@danlofaro.com>
+Changed-By: Daniel M. Lofaro <dan@danlofaro.com>
+Description: 
+ hubo-ach   - Low level controller programs for the Hubo 2 and Hubo 2+ platform
+ hubo-ach-dev - Low level controller headers for the Hubo 2 and Hubo 2+ platforms
+Changes: 
+ hubo-ach (0.0.20130326) stable; urgency=low
+ .
+   * added hubo-ach update (updates from dpkg from website lates release)
+   * added hubo-ach update develop (updates from dpkg from website latest develop)
+   * added hubo-ach update apt-get (updates from apt-get what ever repo is on /etc/apt/soruce.list)
+   * added hubo-ach clean (this safely removed old verison of hubo-ach - installed form source or apt-get or dpkg)
+   * all above will clean before installs
+Checksums-Sha1: 
+ 62b643387d1a4c4527031bc25035707688a07043 754 hubo-ach_0.0.20130326.dsc
+ 14fa7788cf45b189422708cdb93d48e783e09d1b 2959183 hubo-ach_0.0.20130326.tar.gz
+ c91e6dfee8e5e303b696e5a6c6ed9f32fef661b7 51648 hubo-ach_0.0.20130326_i386.deb
+ 9f09efcaf150cf540c277d3aaff7a43e2133f8c2 9516 hubo-ach-dev_0.0.20130326_i386.deb
+Checksums-Sha256: 
+ 59976b8b06bf7a28507c393c284f89d1e2e83cdc3eb6846219fdb07cc35581d0 754 hubo-ach_0.0.20130326.dsc
+ 62367e96c340d7769e8095c9a904d3d39df97d08abba8adf311fdde66ecfdecb 2959183 hubo-ach_0.0.20130326.tar.gz
+ 6100f906b986b4714bee0afd488856d5ee7c45491b074f396f560cb4745c2df1 51648 hubo-ach_0.0.20130326_i386.deb
+ f9f455bfb62e3dc8cb14a2055182c9f460edd7f4dcd19d759600ba07f12a4f65 9516 hubo-ach-dev_0.0.20130326_i386.deb
+Files: 
+ e0c1ab526e21be8503b3ad11976e4a43 754 libs extra hubo-ach_0.0.20130326.dsc
+ fd96875d4797ee3d05f9046b647b9243 2959183 libs extra hubo-ach_0.0.20130326.tar.gz
+ 308fa3af126bac8346394bd96064f4e3 51648 libs extra hubo-ach_0.0.20130326_i386.deb
+ a7e6a9527dcaff90330194dac44f5020 9516 libs extra hubo-ach-dev_0.0.20130326_i386.deb
