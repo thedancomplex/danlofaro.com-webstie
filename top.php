@@ -5,7 +5,7 @@
 <div class="columnbg">
 <div class="topbarright">
 
-<span class="titlename">Daniel M. Lofaro</span><br />
+<span class="titlename">Daniel M. Lofaro Ph.D</span><br />
 <br />
      3141 Chestnut Street<br />
 Electrical and Computer Engineering Dept. 7-313<br />

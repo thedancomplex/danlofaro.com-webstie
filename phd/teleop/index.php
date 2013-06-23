@@ -11,9 +11,10 @@
 
 
 
-<section id="valve">
+<section id="teleop">
 <p>
-<h2>Hubo preforming 6-DOF IK in real-time</h2>
+<h3>Humanoid Robot Teleoperation - Hubo to Hubo:</h3>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/f7djSOg7fjM" frameborder="0" allowfullscreen></iframe>
 </p>
 </section>
 

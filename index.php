@@ -7,9 +7,10 @@
 
 <div class="mainarea">
 
-<p class="text"><img src="images/lofaroHubo.jpg" alt="Daniel M. Lofaro" width="20%" height="20%" class="rightphoto" style="margin-top:20px;"/><h2>Home</h2><p class="text">Daniel M. Lofaro is a Ph.D. Candidate in the Electrical and Computer Engineering Department at Drexel University and works at the Drexel Autonomous Systems Lab (DASL) at under Dr. Paul Oh and is currently researching <i>Complex Control Systems and Robotics</i>.  Daniel's dissertation topic is end-effector velocity control for bipedal robots, also known as throwing.
+<p class="text"><img src="images/lofaroHubo.jpg" alt="Daniel M. Lofaro" width="20%" height="20%" class="rightphoto" style="margin-top:20px;"/><h2>Home</h2><p class="text">Daniel M. Lofaro Ph.D. graduate from the Electrical and Computer Engineering Department at Drexel University and works at the Drexel Autonomous Systems Lab (DASL) at under Dr. Paul Oh and is currently researching <i>Complex Control Systems and Robotics</i>.  Daniel's dissertation title is <i><a href="phd/">Unified Algorithmic Framework for High Degree of Freedom Complex Systems and Humanoid Robots</a></i>.  Recent achievements include:
 </p></p>
 <ul class="text">
+  <li>Doctoral recipient, Electrical and Computer Engineering Department at Drexel University, 2013</li>
   <li>Designed Hubo to Throw First Pitch at Major League Baseball Game, 2012<br /></li>
   <li>NSF-Graduate Research Fellowship Program (GRFP) Honorable Mention, 2009<br /></li>
   <li>NSF-East Asia and Pacific Summer Institutes (EAPSI) Fellow, 2008<br /></li>

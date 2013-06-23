@@ -9,11 +9,12 @@
 
 <p class="text"><img src="../../images/lofaroHubo.jpg" alt="Daniel M. Lofaro" width="20%" height="20%" class="rightphoto" style="margin-top:20px;"/>
 
- Dynamic Walking - Developed in 5 Days!
+<h2>Walking Using Hubo-Ach:</h2>
 
 <section id="WalkingHubo">
 <p>
 <h3>Hubo ZMP walking using Hubo-Ach</h3>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/27UdIAegBdk" frameborder="0" allowfullscreen></iframe>
 </p>
 </section>
 
@@ -30,6 +31,7 @@
 <section id="WalkingHuboAndOpenHubo">
 <p>
 <h3>Hubo and OpenHubo walking using Hubo-Ach in Real-Time and Sim-Time Respectively</h3>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/05k7qwYr8xo" frameborder="0" allowfullscreen></iframe>
 </p>
 </section>
 
