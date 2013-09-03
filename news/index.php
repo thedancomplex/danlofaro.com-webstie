@@ -1,15 +1,15 @@
 <?php
-	include '../../head.php';
+	include '../head.php';
 ?>
 <?php
-	include '../../top.php';
+	include '../top.php';
 ?>
 
 <div class="mainarea">
 
-<p class="text"><img src="../../images/lofaroHubo.jpg" alt="Daniel M. Lofaro" width="20%" height="20%" class="rightphoto" style="margin-top:20px;"/>
+<p class="text"><img src="../images/lofaroHubo.jpg" alt="Daniel M. Lofaro" width="20%" height="20%" class="rightphoto" style="margin-top:20px;"/>
 
-<h2>DRC-HUBO Media Coverage (October 2012- July 2013)</h2>
+<h2>DRC-HUBO Media Coverage (October 2012 - )</h2>
 <hr></hr>
 <p>
 <ul>
@@ -33,11 +33,17 @@
 <li><a href="http://us.cnn.com/2013/05/09/tech/innovation/robot-humanoid-baltimore-robocop/index.html">CNN.com, May 9, 2013</a></li>
 <li><a href="http://www.bloomberg.com/video/meet-atlas-darpa-s-startling-humanoid-future-vRjkAPRbSUaNO~~BF15K0w.html">Bloomberg News, July 22, 2013</a></li>
 <li><a href="http://www.redorbit.com/news/technology/1112896115/darpa-humanoid-robot-atlas-debuts-robotics-challenge-0711213/">Redorbit, July 12, 2013</a></li>
+<li><a href="http://newsblog.drexel.edu/2013/07/31/a-robot-training-to-save-lives/">Drexel News Blog, July 31, 2013</a></li>
+<li><a href="http://technical.ly/philly/2013/08/06/drexel-darpa-robots/?utm_source=Technically+Philly+List&utm_medium=email&utm_campaign=c9dccaf0ac-blogcontenttest&utm_term=0_0ade4dba00-c9dccaf0ac-408315469">Technically Philly, Aug 06, 2013</a></li>
+<li><a href="http://www.newsworks.org/index.php/homepage-feature/item/58678-researchers-from-penn-and-drexel-compete-in-the-pentagons-robotics-challenge">NewsWorks, Aug 19, 2013</a></li>
+<li><a href="http://m.nbcphiladelphia.com/nbcphilly/pm_108052/contentdetail.htm?contentguid=jLqndauB">NBC, Aug 22, 2013</a></li>
+<li><a href="http://s3.amazonaws.com/TVEyesMediaCenter/UserContent/228406/2235434.6933/WALB_08-21-2013_23.33.35.mp4">NBC (Video), Aug 22, 2013</a></li>
+<li><a href="http://philadelphia.cbslocal.com/2013/09/02/drexel-students-creating-robot-to-save-us-from-nuclear-meltdown/">CBS, Sept 2, 2013</a></li>
 </ul>
 
 </p>
 
 <?php
-	include '../../foot.php';
+	include '../foot.php';
 ?>
 

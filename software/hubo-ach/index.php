@@ -55,20 +55,32 @@ synchronize to the control period in a phase lock loop (PLL),
 	motor controllers or the CAN bus bandwidth utilization.
 </p>
 
-
-<h3>Install:</h3>
-<h4>Important Notes:</h4>
+<h3>Important Notes:</h3>
 <b>Develop:</b> This will have the latest fixes and functionality but is not guaranteed to work with all other published software on the Hubo repo.  Fixes and functionality will make it to Stable within a week of being added.
 <br>
-<b>Stable:</b> This is widely tested and will work with all master branches on the Hubo repo.
+<b>Stable/Master:</b> This is widely tested and will work with all master branches on the Hubo repo.
 <br>
-<b>Required:</b> The Ach IPC must be installed before Hubo-Ach is installed.  Follow the directions here: 
+<!--<b>Required:</b> The Ach IPC must be installed before Hubo-Ach is installed.  Follow the directions here: 
 <ul><li>Install Ach IPC: <a href="http://www.golems.org/node/1526">http://www.golems.org/node/1526</a></ul>
+-->
 <br>
 <b>Platform:</b> Tested on Ubuntu 12.04 i386 and amd64 Kernel 3.2.
 </p>
-<br>
 
+
+<h3>Install and Usage:</h3>
+<ul>
+<li><a href="http://www.wiki.danlofaro.com/index.php?title=Hubo-Ach:_Linux_on_Hubo_the_Humanoid_Robot#Prerequisites">Prerequisites</a></li>
+<li><a href="http://www.wiki.danlofaro.com/index.php?title=Hubo-Ach:_Linux_on_Hubo_the_Humanoid_Robot#Installation">Install (source, apt-get, etc.)</a></li>
+<li><a href="http://www.wiki.danlofaro.com/index.php?title=Hubo-Ach:_Linux_on_Hubo_the_Humanoid_Robot#Usage">Usage (Run, Console, Simulator, etc.)</a></li>
+<li><a href="http://www.wiki.danlofaro.com/index.php?title=Hubo-Ach:_Linux_on_Hubo_the_Humanoid_Robot#Programming">Programming (C/C++, Python)</a></li>
+<ul>
+<li><a href="http://www.wiki.danlofaro.com/index.php?title=Hubo-Ach:_Simple_Demo_C/C%2B%2B">C/C++ Example</a></li>
+<li><a href="http://www.wiki.danlofaro.com/index.php?title=Hubo-Ach:_Simple_Demo_Python">Python Example</a></li>
+</ul>
+</ul>
+<!--
+<h3>Install:</h3>
 Add one of the following to /etc/apt/source.list
 <ul>
 <li>Develop: <b>deb http://www.repo.danlofaro.com/release precise main</b>
@@ -84,9 +96,10 @@ Note: make sure to say (yes) when it asks to update joint.table and over write i
 <h3>Source:</h3>
 <b><a href="https://github.com/hubo/hubo-ach.git">https://github.com/hubo/hubo-ach.git</a></b>
 <ul>
-<li>master branch --> Stable apt-get
-<li>develop branch --> Develop apt-get
+<li>master branch -> Stable apt-get
+<li>develop branch -> Develop apt-get
 </ul>
+-->
 
 <h3>Latest Debs:</h3>
 <ul>
@@ -99,16 +112,7 @@ Note: make sure to say (yes) when it asks to update joint.table and over write i
 
 <h3>All Debs:</h3>
 <ul>
-<li><a href="http://www.repo.danlofaro.com/release/archive/hubo-ach_0.0.20130224_i386.deb">hubo-ach_0.0.20130224_i386.deb</a>
-<li><a href="http://www.repo.danlofaro.com/release/archive/hubo-ach-dev_0.0.20130224_i386.deb">hubo-ach-dev_0.0.20130224_i386.deb</a>
-<li><a href="http://www.repo.danlofaro.com/release/archive/hubo-ach_0.0.20130224_amd64.deb">hubo-ach_0.0.20130224_amd64.deb</a>
-<li><a href="http://www.repo.danlofaro.com/release/archive/hubo-ach-dev_0.0.20130224_amd64.deb">hubo-ach-dev_0.0.20130224_amd64.deb</a>
-
-
-<li><a href="http://www.repo.danlofaro.com/release/archive/hubo-ach_0.0.20130210_i386.deb">hubo-ach_0.0.20130210_i386.deb</a>
-<li><a href="http://www.repo.danlofaro.com/release/archive/hubo-ach-dev_0.0.20130210_i386.deb">hubo-ach-dev_0.0.20130210_i386.deb</a>
-<li><a href="http://www.repo.danlofaro.com/release/archive/hubo-ach_0.0.20130210_amd64.deb">hubo-ach_0.0.20130210_amd64.deb</a>
-<li><a href="http://www.repo.danlofaro.com/release/archive/hubo-ach-dev_0.0.20130210_amd64.deb">hubo-ach-dev_0.0.20130210_amd64.deb</a>
+<li><a href="http://www.repo.danlofaro.com/release/archive/">hubo-ach*</a>
 </ul>
 <?php
 	include '../../foot.php';

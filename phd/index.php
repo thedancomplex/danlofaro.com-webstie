@@ -18,7 +18,7 @@
 By Daniel M. Lofaro
 </p>
 <ul>
-<li><a href="files/dLofaro_UnifiedAlgorithmic_Framework_2013.pdf">Click here to download Daniel M. Lofaro's Ph.D Thesis (DRAFT)</a></li>
+<li><a href="files/dLofaro_UnifiedAlgorithmic_Framework_2013.pdf">Click here to download Daniel M. Lofaro's Ph.D Thesis</a></li>
 <li><a href="./acronyms">Acronyms</a></li>
 </ul>
 

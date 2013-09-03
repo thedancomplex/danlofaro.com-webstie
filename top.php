@@ -50,6 +50,9 @@ Electrical and Computer Engineering Dept. 7-313<br />
     <td><a href="http://www.youtube.com/thedancomplex" class="MainNav">On YouTube </a></td>
   </tr>
 
+  <tr>
+    <td><a href="/news" class="MainNav">In the News</a></td>
+  </tr>
 
   <tr>  
     <td><a href="https://github.com/thedancomplex" class="MainNav">Software </a></td>

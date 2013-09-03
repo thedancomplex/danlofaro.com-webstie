@@ -10,6 +10,7 @@
     <a href="/events">Events</a> | 
     <a href="/files/LofaroDanielCV.pdf">Vitae</a> | 
     <a href="http://www.youtube.com/thedancomplex">On YouTube</a> | 
+    <a href="/news">In the News</a> |
     <a href="https://github.com/thedancomplex">Software</a></span>
 
     
