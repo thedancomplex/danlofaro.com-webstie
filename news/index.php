@@ -13,6 +13,7 @@
 <hr></hr>
 <p>
 <ul>
+<li><a href="http://exelmagazine.org/article/into-the-breach/">Exel Magazine, January 05, 2014</a></li>
 <li><a href="http://www.npr.org/player/v2/mediaPlayer.html?action=1&amp;id=163718568&amp;m=163730141">National Public Radio (audio), October 26, 2012</a></li>
 <li><a href="http://www.npr.org/blogs/alltechconsidered/2012/10/26/163718568/a-contest-to-build-a-disaster-ready-robot">National Public Radio (online), October 26, 2012</a></li>
 <li><a href="http://arstechnica.com/science/2012/10/darpas-next-grand-challenge-tool-wielding-rescue-robots/">Ars Technica, October 25, 2012</a></li>
@@ -39,6 +40,8 @@
 <li><a href="http://m.nbcphiladelphia.com/nbcphilly/pm_108052/contentdetail.htm?contentguid=jLqndauB">NBC, Aug 22, 2013</a></li>
 <li><a href="http://s3.amazonaws.com/TVEyesMediaCenter/UserContent/228406/2235434.6933/WALB_08-21-2013_23.33.35.mp4">NBC (Video), Aug 22, 2013</a></li>
 <li><a href="http://philadelphia.cbslocal.com/2013/09/02/drexel-students-creating-robot-to-save-us-from-nuclear-meltdown/">CBS, Sept 2, 2013</a></li>
+<li><a href="http://www.geekadelphia.com/2013/09/24/drexel-university-to-participate-in-national-robotics-challenge/">Geekadelphia, Sept 24, 2013</a></li>
+<li><a href="http://www.youtube.com/watch?v=0TSVijxlAnU">Geekadelphia (video), Sept 24, 2013</a></li>
 </ul>
 
 </p>

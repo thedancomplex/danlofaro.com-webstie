@@ -5,7 +5,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
 
-
 <title>Daniel M. Lofaro</title>
 <link href="/danlofarostyles.css" rel="stylesheet" type="text/css" />
 
@@ -15,7 +14,7 @@
 
 
 
-
+<!--
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -29,6 +28,6 @@
   })();
 
 </script>
-
+-->
 
 </head>

@@ -15,6 +15,27 @@
 <table border="0" class="text">
 <tr>
 <td>Title(16): </td>
+<td><b><i>DARPA Robotics Challenge: Towards a User-Guided
+Manipulation Framework for High-DOF Robots
+</i></b></td>
+</tr>
+<tr>
+<td>Authors: </td>
+<td>Nicholas Alunni*, Calder Phillips-Grafflin, Halit Bener Suay, Jim Mainprice, Dmitry Berenson, Sonia Chernova, Robert Lindeman, Daniel Lofaro, Paul Y. Oh</td>
+</tr>
+<tr>
+<td></td> 
+<td>IROS 2014 - IEEE International Conference on Robotics and Automation</td>
+</tr>
+<tr>
+<td></td>
+<td><i>Full Document - Abstract - BibTex</i></td>
+</table>
+</p>
+
+<table border="0" class="text">
+<tr>
+<td>Title(15): </td>
 <td><b><i>*Reliable Software for Humanoid Robots
 </i></b></td>
 </tr>
@@ -32,26 +53,6 @@
 </table>
 </p>
 
-
-<table border="0" class="text">
-<tr>
-<td>Title(15): </td>
-<td><b><i>*Comparison of Linear and Non-linear Method Towards the Mitigation of Torsional Resonance in Coupled Systems
-</i></b></td>
-</tr>
-<tr>
-<td>Authors: </td>
-<td>D. Lofaro and T. Chmielewski</td>
-</tr>
-<tr>
-<td></td> 
-<td>American Control Conference (ACC) 2013</td>
-</tr>
-<tr>
-<td></td>
-<td><i>Full Document - Abstract - BibTex</i></td>
-</table>
-</p>
 
 
 <table border="0" class="text">
